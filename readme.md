@@ -96,9 +96,6 @@ Contributions are welcome! If you find a bug or have suggestions for improvement
 
 Make sure to follow best practices and test your changes before submitting.
 
-## 📜 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
 ## 🤝 Acknowledgments
 
