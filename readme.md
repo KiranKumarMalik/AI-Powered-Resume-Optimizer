@@ -35,7 +35,7 @@ Resume-Optimizer/
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/naveennk045/Resume-Optimizer
+git clone https://github.com/KiranKumarMalik/AI-Powered-Resume-Optimizer.git
 cd Resume-Optimizer
 ```
 
